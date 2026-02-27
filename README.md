@@ -60,6 +60,9 @@ Soy **Wily Duvan Villamil Rey**, radicado en Medellín, Antioquia. Mi enfoque es
 #### [➔ Clinical DB Engine: Arquitectura & Gobernanza](https://github.com/Wily861/Clinical-DB-Engine)
 * Implementación de **Seguridad Granular (RBAC)** y Hardening de base de datos para la protección de datos sensibles bajo estándares de salud.
 * Diseño de esquemas relacionales **3NF** y optimización de capas de reporte para analítica estratégica mediante ODBC.
+
+#### [➔ Python Task Engine: CLI & Persistencia de Datos](https://github.com/Wily861/Python-Task-Engine)
+* Desarrollo de una herramienta de automatización con arquitectura modular, manejo de excepciones robusto y motor de persistencia basado en JSON.
 ---
 
 ### 🎓 Certificaciones Clave
