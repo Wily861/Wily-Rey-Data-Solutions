@@ -52,7 +52,7 @@ Soy **Wily Duvan Villamil Rey**, radicado en Medellín, Antioquia. Mi enfoque es
 * Scripts avanzados para detección de **Deadlocks**, fragmentación de índices y monitoreo de `tempdb`.
 * Automatización de planes de mantenimiento preventivo.
 
-#### [➔ Modern ETL Pipelines (SSIS & Python)](LINK_A_TU_REPOSITORIO)
+#### [➔ Modern ETL Pipelines (SSIS & Python)](https://github.com/Wily861/SQL-Pro-Toolkit)
 * Framework de integración de datos con manejo de errores robusto, Checkpoints y auditoría de carga.
 * Implementación de lógica de negocio compleja fuera de los triggers para mejorar el performance.
 
